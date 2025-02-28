@@ -1,0 +1,26 @@
+{
+  "games": [
+    { "name": "Free Fire", "image": "freefire.jpg", "link": "https://play.google.com/store/apps/details?id=com.dts.freefireth" },
+    { "name": "PUBG Mobile", "image": "pubg.jpg", "link": "https://play.google.com/store/apps/details?id=com.tencent.ig" },
+    { "name": "Call of Duty Mobile", "image": "cod.jpg", "link": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter" },
+    { "name": "Asphalt 9", "image": "asphalt9.jpg", "link": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM" },
+    { "name": "Subway Surfers", "image": "subway.jpg", "link": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf" },
+    { "name": "Minecraft", "image": "minecraft.jpg", "link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe" },
+    { "name": "Clash of Clans", "image": "clashofclans.jpg", "link": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans" },
+    { "name": "Among Us", "image": "amongus.jpg", "link": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia" },
+    { "name": "GTA: San Andreas", "image": "gta.jpg", "link": "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa" },
+    { "name": "FIFA Mobile", "image": "fifa.jpg", "link": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile" }
+  ],
+  "apps": [
+    { "name": "WhatsApp", "image": "whatsapp.jpg", "link": "https://play.google.com/store/apps/details?id=com.whatsapp" },
+    { "name": "Facebook", "image": "facebook.jpg", "link": "https://play.google.com/store/apps/details?id=com.facebook.katana" },
+    { "name": "Instagram", "image": "instagram.jpg", "link": "https://play.google.com/store/apps/details?id=com.instagram.android" },
+    { "name": "TikTok", "image": "tiktok.jpg", "link": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically" },
+    { "name": "Snapchat", "image": "snapchat.jpg", "link": "https://play.google.com/store/apps/details?id=com.snapchat.android" },
+    { "name": "Telegram", "image": "telegram.jpg", "link": "https://play.google.com/store/apps/details?id=org.telegram.messenger" },
+    { "name": "Twitter", "image": "twitter.jpg", "link": "https://play.google.com/store/apps/details?id=com.twitter.android" },
+    { "name": "Spotify", "image": "spotify.jpg", "link": "https://play.google.com/store/apps/details?id=com.spotify.music" },
+    { "name": "Netflix", "image": "netflix.jpg", "link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient" },
+    { "name": "YouTube", "image": "youtube.jpg", "link": "https://play.google.com/store/apps/details?id=com.google.android.youtube" }
+  ]
+}
